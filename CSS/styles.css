@@ -1,21 +1,107 @@
 *{
-    box-sizing: border-box;
+    background-color: aqua;
+    box-sizing: border-box;border-color:red;
+    padding: 0%;
+    margin: 0%;
+    }
+
+.colorDiv2 { 
+    background-color: aqua;
+    border: brown solid;
+    width: 100%;
+    height: 100px;
+    border-radius: 10px;
 }
-div{
-    padding: 40px;
-    border-style:ridge
+.colorDiv3 { 
+    background-color: aqua;
+    border: brown solid;
+    width: 100%;
+    height: 100px;
+    border-radius: 10px;
 }
-.colorDiv2
-.colorDiv3
-.colorDiv4
-.colorDiv5
-.colorDiv6
-.colorDiv7
-.colorDiv8
-.colorDiv9
-.colorDiv10
-.colorDiv11
-.colorDiv12
-.colorDiv13
-.colorDiv14
-.colorDiv15
+.colorDiv4 { 
+    background-color: aqua;
+    border: brown solid;
+    width: 100%;
+    height: 100px;
+    border-radius: 10px;
+}
+.colorDiv5 { 
+    background-color: aqua;
+    border: brown solid;
+    width: 100%;
+    height: 100px;
+    border-radius: 10px;
+}
+.colorDiv6 { 
+    background-color: aqua;
+    border: brown solid;
+    width: 100%;
+    height: 100px;
+    border-radius: 10px;
+}
+.colorDiv7 { 
+    background-color: aqua;
+    border: brown solid;
+    width: 100%;
+    height: 100px;
+    border-radius: 10px;
+}
+.colorDiv8 { 
+    background-color: aqua;
+    border: brown solid;
+    width: 100%;
+    height: 100px;
+    border-radius: 10px;
+}
+.colorDiv9 { 
+    background-color: aqua;
+    border: brown solid;
+    width: 100%;
+    height: 100px;
+    border-radius: 10px;
+}
+.colorDiv10 { 
+    background-color: aqua;
+    border: brown solid;
+    width: 100%;
+    height: 100px;
+    border-radius: 10px;
+}
+.colorDiv11 { 
+    background-color: aqua;
+    border: brown solid;
+    width: 100%;
+    height: 100px;
+    border-radius: 10px;
+}
+.colorDiv12 { 
+    background-color: aqua;
+    border: brown solid;
+    width: 100%;
+    height: 100px;
+    border-radius: 10px;
+}
+.colorDiv13 { 
+    background-color: aqua;
+    border: brown solid;
+    width: 100%;
+    height: 100px;
+    border-radius: 10px;
+}
+.colorDiv14 { 
+    background-color: aqua;
+    border: brown solid;
+    width: 100%;
+    height: 100px;
+    border-radius: 10px;
+}
+.colorDiv15 { 
+    background-color: aqua;
+    border: 2px brown solid;
+    width: 100%;
+    height: 100px;
+    border-radius: 10px;
+}
+
+
